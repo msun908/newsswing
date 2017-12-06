@@ -156,6 +156,18 @@ body {
 	width: 20%;
 }
 
+.row2-2 {
+	display: inline-block;
+	padding-bottom: 0px;
+	width: 20%;
+}
+
+.row1-2 .col-md-3-2, .row2-2 .col-md-3-2 {
+	display: inline-block;
+	padding-bottom: 0px;
+	width: 20%;
+}
+
 /* Mobile Devices Optimization */
 @media (min-width: 568px) and (max-width: 992px) {
 
